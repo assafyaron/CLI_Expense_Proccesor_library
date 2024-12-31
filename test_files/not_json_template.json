@@ -1,0 +1,10 @@
+{{
+    "user": {{
+        "name": "{name}",
+        "salary": "{salary}"
+    }},
+    "expenses": {{
+        "food": "{food_expenses}",
+        "clothing": "{clothing_expenses}"
+    }},
+    "welcome_message": "Hello {name}, welcome"
